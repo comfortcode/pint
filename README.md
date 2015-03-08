@@ -1,6 +1,6 @@
-# Pint - My First RAils App!
+# Pint - My First Rails App!
 
-This is the Pint sample application for my course!
+This is the Pinteresting (now Minteresting) app for the course I'm taking:
 [*One Month Rails*](http://onemonthrails.com)
 
 by Nechama Goldman 
