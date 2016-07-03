@@ -1,5 +1,1 @@
-# My First Rails Application
-
-Pinterest Replica
-
-by Nechama Goldman 
+Pinterest Replica - Experimentation with Rails
