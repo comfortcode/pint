@@ -1,6 +1,5 @@
-# Pint - My First Rails App!
+# My First Rails Application
 
-This is the Pinteresting (now Minteresting) app for the course I'm taking:
-[*One Month Rails*](http://onemonthrails.com)
+Pinterest Replica
 
 by Nechama Goldman 
